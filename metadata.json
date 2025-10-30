@@ -1,33 +1,27 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Version Control: Repositories",
+    "slug": "version-control-repositories",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "software-engineering"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
         {
-            "slug": "",
-            "description": ""
-        },
-        {
-            "slug": "",
-            "description": ""
+            "slug": "version-control-introduction",
+            "description": "An introduction to the idea of version control systems."
         }
     ],
     "related": [
         {
-            "slug": "",
-            "description": ""
+            "slug": "git-repositories",
+            "description": "Learn how repositories are implemented in Git."
         },
         {
-            "slug": "",
-            "description": ""
+            "slug": "github-repositories",
+            "description": "Understanding how repositories work on GitHub."
         }
     ]
 }
