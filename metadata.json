@@ -9,19 +9,10 @@
     ],
     "duration": 1,
     "prerequisites": [
-        {
-            "slug": "version-control-introduction",
-            "description": "An introduction to the idea of version control systems."
-        }
+        "version-control-introduction"
     ],
     "related": [
-        {
-            "slug": "git-repositories",
-            "description": "Learn how repositories are implemented in Git."
-        },
-        {
-            "slug": "github-repositories",
-            "description": "Understanding how repositories work on GitHub."
-        }
+        "git-repositories",
+        "github-repositories"
     ]
 }
