@@ -13,7 +13,6 @@
         "version-control-introduction"
     ],
     "related": [
-        "git-repositories",
-        "github-repositories"
+        "git-repositories"
     ]
 }
